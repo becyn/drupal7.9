@@ -1,4 +1,16 @@
+Yhank you for installing!
 
+about Set up database --------
+Please let you see MySQL Settings via project -> Setup -> Database, if you cannot understand "Database name", "Database username" and "Database password"
+------------------------------
+If you have any questions, please feel free to ask me.
+Enjoy your drupal life on fluxflex!
+
+by becyn
+
+
+README.txt written by drupal.org
+---------------------
 CONTENTS OF THIS FILE
 ---------------------
 
