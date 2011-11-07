@@ -1,15 +1,8 @@
 #########################################
 #
-# fluxflex configuration for WordPress
+# fluxflex configuration for drupal 7.9
 #
 #########################################
-
-## Replace
-[replace]
-public_html/wp-config.php FLX_DB_NAME PROJECT_NAME
-public_html/wp-config.php FLX_DB_USER DB_USER
-public_html/wp-config.php FLX_DB_PASS DB_PASSWORD
-public_html/wp-config.php FLX_DB_HOST DB_HOST
 
 [setup]
 # I changed public_html/sites/default/default.settings.php to ./settings.php.
